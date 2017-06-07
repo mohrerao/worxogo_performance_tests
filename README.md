@@ -6,4 +6,3 @@ Steps to run Performance tests
 5. Under http request 'Add Comment' update nid for which comment needs to be added
 6. Under http request 'Like Idea' update node id for which user should click on like
 7. Under http request 'Like Idea2' update node id for which user should click on like
-
