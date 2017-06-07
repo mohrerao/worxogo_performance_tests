@@ -6,3 +6,5 @@ Steps to run Performance tests
 5. Under http request 'Add Comment' update nid for which comment needs to be added
 6. Under http request 'Like Idea' update node id for which user should click on like
 7. Under http request 'Like Idea2' update node id for which user should click on like
+8. Run test and go to View Results in Table after completion of the script execution to verify failed requests.
+9. Tune / update script if required.
