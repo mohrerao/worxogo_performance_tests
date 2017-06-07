@@ -1,10 +1,7 @@
 Steps to run Performance tests
 1. Update host with URL / IP under Drupal7
-2. Under 'authenticate browsing' update Number of threads, Ramp up period and Loop count
-3. Under controller 'Once Only Controller' go to 'CSV Data Set Config' and update csv file path
-4. Under http request 'Navigate to Idea page' update innogen page URL
-5. Under http request 'Add Comment' update nid for which comment needs to be added
-6. Under http request 'Like Idea' update node id for which user should click on like
-7. Under http request 'Like Idea2' update node id for which user should click on like
-8. Run test and go to View Results in Table after completion of the script execution to verify failed requests.
-9. Tune / update script if required.
+2. Update innogen.path, comment.node, like.node, idea.text, comment.text
+3. Under 'authenticate browsing' update Number of threads, Ramp up period and Loop count
+4. Under 'User data' and update csv file path
+5. Run test and go to View Results in Table after completion of the script execution to verify failed requests.
+6. Tune / update script if required.
