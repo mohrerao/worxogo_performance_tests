@@ -35,7 +35,7 @@
           </elementProp>
           <elementProp name="Innogen.path" elementType="Argument">
             <stringProp name="Argument.name">Innogen.path</stringProp>
-            <stringProp name="Argument.value">innogen/test-innogen-14-june-2017</stringProp>
+            <stringProp name="Argument.value">innogen/performance-test-innogen-20-06-2017</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
             <stringProp name="Argument.desc">Path of individual innogen page</stringProp>
           </elementProp>
@@ -292,12 +292,12 @@
       </hashTree>
       <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Authenticated Browsing" enabled="true">
         <boolProp name="ThreadGroup.scheduler">false</boolProp>
-        <stringProp name="ThreadGroup.num_threads">1000</stringProp>
+        <stringProp name="ThreadGroup.num_threads">6000</stringProp>
         <stringProp name="ThreadGroup.duration"></stringProp>
         <stringProp name="ThreadGroup.delay"></stringProp>
         <longProp name="ThreadGroup.start_time">1184192411000</longProp>
         <stringProp name="ThreadGroup.on_sample_error">startnextloop</stringProp>
-        <stringProp name="ThreadGroup.ramp_time">1000</stringProp>
+        <stringProp name="ThreadGroup.ramp_time">12000</stringProp>
         <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller" enabled="true">
           <boolProp name="LoopController.continue_forever">false</boolProp>
           <stringProp name="LoopController.loops">2</stringProp>
@@ -777,7 +777,7 @@
               <bytes>true</bytes>
             </value>
           </objProp>
-          <stringProp name="filename">C:\Users\Kiran\Desktop\worxogo_perf_test_plan\Response Time Graph</stringProp>
+          <stringProp name="filename">C:\Users\Kiran\Desktop\worxogo_perf_test_plan\Results_${__time()}</stringProp>
         </ResultCollector>
         <hashTree/>
         <ResultCollector guiclass="SummaryReport" testclass="ResultCollector" testname="Summary Report" enabled="true">
