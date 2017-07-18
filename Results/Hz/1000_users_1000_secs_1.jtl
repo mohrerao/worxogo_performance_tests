@@ -1,0 +1,74 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1500319048742,2887,Login,200,OK,Authenticated Browsing 1-1,text,true,,98862,0,4,4,1651,0,0
+1500319049666,2347,Login,200,OK,Authenticated Browsing 1-2,text,true,,98862,0,4,4,1376,0,0
+1500319050673,1639,Login,200,OK,Authenticated Browsing 1-3,text,true,,98861,0,5,5,623,0,0
+1500319051681,916,Login,200,OK,Authenticated Browsing 1-4,text,true,,98861,0,5,5,263,0,0
+1500319052550,547,Submit Idea,200,OK,Authenticated Browsing 1-2,text,true,,998,1047,5,5,547,0,192
+1500319052473,637,Submit Idea,500,Service unavailable (with message),Authenticated Browsing 1-1,text,false,,9463,1047,5,5,635,0,269
+1500319048212,3524,Transaction Controller,,"Number of samples in transaction : 2, number of failing samples : 1",Authenticated Browsing 1-1,,false,,108325,1047,5,5,2286,1390,269
+1500319052845,658,Submit Idea,200,OK,Authenticated Browsing 1-3,text,true,,998,1047,5,5,658,0,180
+1500319052683,838,Login,200,OK,Authenticated Browsing 1-5,text,true,,98861,0,5,5,253,0,0
+1500319053131,490,Submit Idea,200,OK,Authenticated Browsing 1-4,text,true,,998,1047,5,5,490,0,187
+1500319053685,733,Login,200,OK,Authenticated Browsing 1-6,text,true,,98861,0,6,6,224,0,0
+1500319054050,507,Submit Idea,200,OK,Authenticated Browsing 1-5,text,true,,998,1047,6,6,507,0,183
+1500319054694,836,Login,200,OK,Authenticated Browsing 1-7,text,true,,98862,0,7,7,242,0,0
+1500319054941,593,Submit Idea,200,OK,Authenticated Browsing 1-6,text,true,,998,1047,7,7,593,0,184
+1500319056057,648,Submit Idea,200,OK,Authenticated Browsing 1-7,text,true,,998,1047,8,8,648,0,183
+1500319055693,1263,Login,200,OK,Authenticated Browsing 1-8,text,true,,98861,0,8,8,355,0,0
+1500319057483,722,Submit Idea,200,OK,Authenticated Browsing 1-8,text,true,,998,1047,9,9,722,0,236
+1500319056694,1743,Login,200,OK,Authenticated Browsing 1-9,text,true,,98862,0,10,10,343,0,0
+1500319053608,5081,Navigate to Idea page,200,OK,Authenticated Browsing 1-2,text,true,,453293,247,10,10,2818,0,0
+1500319054132,4693,Navigate to Idea page,200,OK,Authenticated Browsing 1-4,text,true,,453286,247,10,10,2776,0,0
+1500319054015,5008,Navigate to Idea page,200,OK,Authenticated Browsing 1-3,text,true,,453286,247,10,10,2769,0,0
+1500319057699,1532,Login,200,OK,Authenticated Browsing 1-10,text,true,,98861,0,11,11,505,0,0
+1500319058961,542,Submit Idea,200,OK,Authenticated Browsing 1-9,text,true,,998,1047,11,11,542,0,187
+1500319059208,462,Add Comment,200,OK,Authenticated Browsing 1-2,text,true,,336,435,11,11,462,0,184
+1500319059350,666,Add Comment,200,OK,Authenticated Browsing 1-4,text,true,,336,435,11,11,666,0,251
+1500319058725,1308,Login,200,OK,Authenticated Browsing 1-11,text,true,,98859,0,11,11,316,0,0
+1500319059547,546,Add Comment,200,OK,Authenticated Browsing 1-3,text,true,,336,435,11,11,546,0,255
+1500319055068,5023,Navigate to Idea page,200,OK,Authenticated Browsing 1-5,text,true,,453287,247,11,11,2923,0,0
+1500319056046,4318,Navigate to Idea page,200,OK,Authenticated Browsing 1-6,text,true,,453276,247,12,12,2786,0,0
+1500319059750,1063,Submit Idea,200,OK,Authenticated Browsing 1-10,text,true,,998,1048,12,12,1063,0,283
+1500319060171,650,Like idea,200,OK,Authenticated Browsing 1-2,text,true,,340,268,12,12,650,0,0
+1500319049165,9087,Transaction Controller,200,"Number of samples in transaction : 7, number of failing samples : 0",Authenticated Browsing 1-2,,true,,553829,1997,12,12,5853,2570,376
+1500319060516,452,Like idea,200,OK,Authenticated Browsing 1-4,text,true,,340,268,11,11,452,0,0
+1500319051179,7217,Transaction Controller,200,"Number of samples in transaction : 7, number of failing samples : 0",Authenticated Browsing 1-4,,true,,553821,1997,11,11,4647,2573,438
+1500319060605,366,Like idea,200,OK,Authenticated Browsing 1-3,text,true,,340,268,10,10,366,0,0
+1500319050171,8217,Transaction Controller,200,"Number of samples in transaction : 7, number of failing samples : 0",Authenticated Browsing 1-3,,true,,553821,1997,10,10,4962,2583,435
+1500319060605,1152,Add Comment,200,OK,Authenticated Browsing 1-5,text,true,,336,435,10,10,1152,0,365
+1500319060548,1355,Submit Idea,200,OK,Authenticated Browsing 1-11,text,true,,998,1048,10,10,1355,0,420
+1500319059723,2481,Login,200,OK,Authenticated Browsing 1-12,text,true,,98861,0,10,10,312,0,0
+1500319060873,1506,Add Comment,200,OK,Authenticated Browsing 1-6,text,true,,336,435,11,11,1506,0,635
+1500319062262,939,Like idea,200,OK,Authenticated Browsing 1-5,text,true,,340,268,11,11,939,0,0
+1500319052181,8459,Transaction Controller,200,"Number of samples in transaction : 7, number of failing samples : 0",Authenticated Browsing 1-5,,true,,553822,1997,11,11,5774,2562,548
+1500319062729,1853,Submit Idea,200,OK,Authenticated Browsing 1-12,text,true,,998,1048,12,12,1853,0,934
+1500319062883,1765,Like idea,200,OK,Authenticated Browsing 1-6,text,true,,340,268,12,12,1765,0,966
+1500319053184,8915,Transaction Controller,200,"Number of samples in transaction : 7, number of failing samples : 0",Authenticated Browsing 1-6,,true,,553811,1997,12,12,6874,2550,1785
+1500319060735,3920,Login,200,OK,Authenticated Browsing 1-13,text,true,,98860,0,11,11,432,0,0
+1500319062759,2360,Login,200,OK,Authenticated Browsing 1-15,text,true,,98861,0,11,11,924,0,0
+1500319057215,8014,Navigate to Idea page,200,OK,Authenticated Browsing 1-7,text,true,,452580,247,11,11,2663,0,0
+1500319065187,1930,Submit Idea,200,OK,Authenticated Browsing 1-13,text,true,,998,1048,13,13,1930,0,773
+1500319061752,5644,Login,200,OK,Authenticated Browsing 1-14,text,true,,98860,0,14,14,1894,0,0
+1500319065628,1812,Submit Idea,200,OK,Authenticated Browsing 1-15,text,true,,998,1048,14,14,1812,0,1109
+1500319065739,1723,Add Comment,200,OK,Authenticated Browsing 1-7,text,true,,336,435,14,14,1723,0,1141
+1500319065759,2044,Login,200,OK,Authenticated Browsing 1-18,text,true,,98860,0,14,14,1154,0,0
+1500319064762,3153,Login,200,OK,Authenticated Browsing 1-17,text,true,,98860,0,14,14,1185,0,0
+1500319058725,9972,Navigate to Idea page,200,OK,Authenticated Browsing 1-8,text,true,,454326,247,15,15,3217,0,0
+1500319063766,4942,Login,200,OK,Authenticated Browsing 1-16,text,true,,98860,0,15,15,1724,0,0
+1500319067962,1447,Like idea,200,OK,Authenticated Browsing 1-7,text,true,,340,268,16,16,1447,0,543
+1500319054190,12668,Transaction Controller,200,"Number of samples in transaction : 7, number of failing samples : 0",Authenticated Browsing 1-7,,true,,553116,1997,16,16,6723,2553,1867
+1500319067929,1610,Submit Idea,200,OK,Authenticated Browsing 1-14,text,true,,998,1048,15,15,1610,0,575
+1500319068321,1344,Submit Idea,200,OK,Authenticated Browsing 1-18,text,true,,998,1048,15,15,1344,0,455
+1500319067772,1955,Login,200,OK,Authenticated Browsing 1-20,text,true,,98860,0,15,15,666,0,0
+1500319068449,1308,Submit Idea,200,OK,Authenticated Browsing 1-17,text,true,,998,1048,15,15,1308,0,480
+1500319060011,9998,Navigate to Idea page,200,OK,Authenticated Browsing 1-9,text,true,,455119,247,15,15,3544,0,0
+1500319061321,8858,Navigate to Idea page,200,OK,Authenticated Browsing 1-10,text,true,,455226,247,15,15,3081,0,0
+1500319069219,1274,Add Comment,200,OK,Authenticated Browsing 1-8,text,true,,336,435,16,16,1274,0,581
+1500319069247,1297,Submit Idea,500,Service unavailable (with message),Authenticated Browsing 1-16,text,false,,9463,1048,16,16,1282,0,558
+1500319063265,6239,Transaction Controller,,"Number of samples in transaction : 2, number of failing samples : 1",Authenticated Browsing 1-16,,false,,108323,1048,16,16,3006,1063,558
+1500319066768,3793,Login,200,OK,Authenticated Browsing 1-19,text,true,,98861,0,16,16,1495,0,0
+1500319062416,8218,Navigate to Idea page,200,OK,Authenticated Browsing 1-11,text,true,,455332,247,15,15,3498,0,0
+1500319068778,1910,Login,200,OK,Authenticated Browsing 1-21,text,true,,98860,0,15,15,834,0,0
+1500319070264,732,Submit Idea,200,OK,Authenticated Browsing 1-20,text,true,,998,1048,15,15,732,0,369
+1500319070533,579,Add Comment,200,OK,Authenticated Browsing 1-9,text,true,,336,435,15,15,579,0,253
+1500319069778,1352,Login,200,OK,Authenticated Browsing 1-22,text,true,,98861,0,15,15,528,0,0
